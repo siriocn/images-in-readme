@@ -1,5 +1,5 @@
 # Welcome to GitHub
-
+![股价折线图](https://user-images.githubusercontent.com/88477839/216847308-4cd8af8f-8432-43fb-a61f-0c9cd8d5b28e.png)
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
